@@ -1,0 +1,12 @@
+package Fundamental
+
+fun sayHello (name:String ="Nepts"){
+    println("Hello $name")
+}
+
+fun main() {
+    // * Ketika di dalam paremeter terdapat default argumen maka saat memanggil function boleh tidak menambahkan argumen
+    sayHello();
+    // * Boleh juga mengisikan argumen
+    sayHello("Neptune")
+}
