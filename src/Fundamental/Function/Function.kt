@@ -1,4 +1,4 @@
-package Fundamental
+package Fundamental.Function
 
 fun main() {
     myFunction()

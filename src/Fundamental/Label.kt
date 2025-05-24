@@ -1,4 +1,4 @@
-package Fundamental.Function
+package Fundamental
 
 fun main(args: Array<String>) {
     // * merupakan penanda

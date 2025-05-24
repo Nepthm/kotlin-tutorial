@@ -1,4 +1,4 @@
-package Fundamental
+package Fundamental.Function
 
 fun sayHello (name:String ="Nepts"){
     println("Hello $name")
@@ -9,4 +9,5 @@ fun main() {
     sayHello();
     // * Boleh juga mengisikan argumen
     sayHello("Neptune")
+    // * namun ketika ada parameter yang tidak memiliki nilai default maka harus di isi
 }
